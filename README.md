@@ -1,4 +1,4 @@
-# Local Auth Web Text
+# Portafolio Personal
 
 Una aplicación Flutter que demuestra un portafolio de imágenes interactivo con transiciones animadas.
 
